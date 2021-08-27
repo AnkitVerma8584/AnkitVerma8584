@@ -31,6 +31,7 @@
 <br><br><br><br>
 <p align="left"><h2>📊 My GitHub Stats </p></h2>
 
+![](https://komarev.com/ghpvc/?username=AnkitVerma8584)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitVerma8584&show_icons=true&theme=tokyonight)
 <br><br><br>
@@ -45,9 +46,4 @@
  
 
             
-                                                                    
- 
-<!---
-suniti0804/suniti0804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                                                                  
