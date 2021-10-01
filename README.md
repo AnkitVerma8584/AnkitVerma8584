@@ -2,7 +2,7 @@
 
 
 - 🎓 I am in my pre final year studying Electrical Engineering at Heritage Institute of Technology, Kolkata. 
-- 👩‍💻 I am an excellent Android Developer and I am interested in App Development.
+- 👩‍💻 I am an Android Developer and I am interested in App Development.
 - 💻 My goal is to learn and grow.
 - 🗨 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-verma-9a84a41aa/).                                    
   
