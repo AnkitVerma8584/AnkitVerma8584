@@ -33,14 +33,7 @@
 <br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkitVerma8584&theme=tokyonight)](https://git.io/streak-stats)
 
-</br></br></br></br>
+</br></br>
 [![@warlord's Holopin board](https://holopin.io/api/user/board?user=warlord)](https://holopin.io/@warlord)
 
-</br></br></br></br>
-
-
-
- 
-
-            
-                                                                  
+</br></br>                                                                
