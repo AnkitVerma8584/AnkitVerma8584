@@ -22,7 +22,7 @@
  <a href="https://www.java.com/en/" title="java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="50px" height="50px"></a>
  <a href="https://www.android.com/intl/en_in/" title="android"><img src="https://github.com/get-icon/geticon/raw/master/icons/android.svg" alt="android" width="50px" height="50px"></a>
  <a href="https://www.figma.com/" title="figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="figma" width="50px" height="50px"></a>
- <a href="" title="Flutter"><img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="50px" height="50px"></a>
+ <a href="https://cdn-images-1.medium.com/" title="Flutter"><img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="50px" height="50px"></a>
 
 <br><br><br><br>
 <p align="left"><h2>📊 My GitHub Stats </p></h2>
