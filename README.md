@@ -19,7 +19,8 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="50px" height="50px"></a><br><br>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png"></code>
  <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>
- <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" alt="kotlin" width="50px" height="50px"></a>
+ <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="kotlin" width="50px" height="50px"></a>
+ <!--https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png-->
  <a href="https://www.java.com/en/" title="java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="50px" height="50px"></a>
  <a href="https://www.android.com/intl/en_in/" title="android"><img src="https://github.com/get-icon/geticon/raw/master/icons/android.svg" alt="android" width="50px" height="50px"></a>
  <a href="https://www.figma.com/" title="figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="figma" width="50px" height="50px"></a>
